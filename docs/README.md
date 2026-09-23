@@ -68,3 +68,13 @@ _Пример: area(3, 4) вернет 12_
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
 - Triangle: P = a + b + c
+
+
+# Git log:
+```
+a231c33 (HEAD -> feature/ISRPO-02) added general info to README.md
+534a917 fixed bug in rectangle
+875b969 added triangle and rectangle
+d078c8d (origin/main, origin/HEAD, main) L-03: Docs added
+8ba9aeb L-03: Circle and square added
+```
