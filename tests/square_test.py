@@ -15,6 +15,6 @@ class SquareTestCase(unittest.TestCase):
         res = perimeter(10)
         self.assertEqual(res, 40)
 
-    def test_perimeter_zero_lenth(self):
+    def test_perimeter_zero_length(self):
         res = perimeter(0)
         self.assertEqual(res, 0)
